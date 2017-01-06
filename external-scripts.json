@@ -3,6 +3,7 @@
   "hubot-google-images",
   "hubot-help",
   "hubot-maps",
+  "hubot-pearson-dictionary",
   "hubot-pugme",
   "hubot-pugsofwesteros",
   "hubot-redis-brain",
